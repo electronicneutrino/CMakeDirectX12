@@ -1,0 +1,5 @@
+C:/Users/Eli/source/repos/CMakeDirectX12/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Eli/source/repos/CMakeDirectX12/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Eli/source/repos/CMakeDirectX12/out/build/x64-debug/CMakeDirectX12/CMakeFiles/CMakeDirectX12.dir
+C:/Users/Eli/source/repos/CMakeDirectX12/out/build/x64-debug/CMakeDirectX12/CMakeFiles/edit_cache.dir
+C:/Users/Eli/source/repos/CMakeDirectX12/out/build/x64-debug/CMakeDirectX12/CMakeFiles/rebuild_cache.dir
